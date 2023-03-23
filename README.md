@@ -1,1 +1,3 @@
 # Assignment-2
+
+This is a simple 2D memory game using unity. To play the game, the user clicks on a card and an image will be displayed. The user will have the opportunity to click on another card and if the two images do not match, the user must click on either one of the images to turn it back around and click on another. Note that only two card faces can be up at any given time (excluding cards that have already been matched). If the two cards match, the user will be allowed to click on another two images and continue the process. After all images have been matched, there is a little red restart button at the top right-hand corner of the screen where the user can restart the game with the images shuffled up.
